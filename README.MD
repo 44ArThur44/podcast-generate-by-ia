@@ -1,8 +1,5 @@
 <p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
+  <h1 align="center">The Wizard's Discovery</h1>
 </p>
 
 <p align="center">
@@ -15,7 +12,7 @@
 <p align="center">
 <a href="https://dio.me/">
     <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
+        src="https://img.shields.io/badge/DIO-Code_The-Future-28DA77?logo=youtube" 
         alt="DIO - Code The Future">
 </a>
 <a href="https://dio.me/">
