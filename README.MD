@@ -48,6 +48,8 @@
 
 Bootcamp Sandanter Universia – Fundamentos de IA Generativa. Aula prática com objetivo de gerar um Podcast utilizando ferramentas de IA através de prompts personalizados.
 
+Projeto desenvolvido como parte do programa preparatório para o Trainee Santander 2026, que visa capacitar futuros trainees com as competências em tecnologia e inovação exigidas pelo Santander.
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
