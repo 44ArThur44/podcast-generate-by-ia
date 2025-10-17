@@ -12,7 +12,7 @@
 <p align="center">
 <a href="./output/The Wizard's Discovery.mp3" download>
     <button style="background-color: #28DA77; color: white; padding: 12px 24px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
-        🎧 Escutar Podcast
+        📥 Baixar Podcast
     </button>
 </a>
 </p>
@@ -31,16 +31,18 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Ouça o podcast diretamente:
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="./output/The Wizard's Discovery.mp3" controls style="width: 300px;">
+        Seu navegador não suporta o elemento de áudio.
+    </audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
 
-Santander Bootcamp – Fundamentos de IA Generativa com objetivo de gerar um Podcast utilizando ferramentas de IA através de prompts personalizados.
+Bootcamp Universia – Fundamentos de IA Generativa com objetivo de gerar um Podcast utilizando ferramentas de IA através de prompts personalizados.
 
 ## 💻 Tecnologias utilizadas no projeto
 
