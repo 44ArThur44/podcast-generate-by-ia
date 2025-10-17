@@ -42,6 +42,11 @@
     src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
     alt="🔴 LIVE CODE">
 </a>
+<a href="https://www.linkedin.com/in/arthur-vesaro-798318239/">
+<img 
+    src="https://img.shields.io/badge/LinkedIn-Arthur-0077B5?logo=linkedin" 
+    alt="LinkedIn">
+</a>
 </p>
 
 # Projeto Podcast Gerado por I.A.s
