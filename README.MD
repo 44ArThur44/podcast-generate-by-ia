@@ -36,7 +36,7 @@
 
 # Projeto Podcast Gerado por I.A.s
 
-Bootcamp Universia – Fundamentos de IA Generativa com objetivo de gerar um Podcast utilizando ferramentas de IA através de prompts personalizados.
+Bootcamp Santander – Fundamentos de IA Generativa com objetivo de gerar um Podcast utilizando ferramentas de IA através de prompts personalizados.
 
 ## 💻 Tecnologias utilizadas no projeto
 
