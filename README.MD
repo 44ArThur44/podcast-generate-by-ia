@@ -10,6 +10,14 @@
 </p>
 
 <p align="center">
+<a href="./output/The Wizard's Discovery.mp3" download>
+    <button style="background-color: #28DA77; color: white; padding: 12px 24px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
+        🎧 Escutar Podcast
+    </button>
+</a>
+</p>
+
+<p align="center">
 <a href="https://dio.me/">
     <img 
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
@@ -32,7 +40,7 @@
 
 # Projeto Podcast Gerado por I.A.s
 
-Bootcamp Universia – Fundamentos de IA Generativa com objetivo de gerar um Podcast utilizando ferramentas de IA através de prompts personalizados.
+Santander Bootcamp – Fundamentos de IA Generativa com objetivo de gerar um Podcast utilizando ferramentas de IA através de prompts personalizados.
 
 ## 💻 Tecnologias utilizadas no projeto
 
