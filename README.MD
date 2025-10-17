@@ -30,8 +30,6 @@
 
 Bootcamp Universia – Fundamentos de IA Generativa com objetivo de gerar um Podcast utilizando ferramentas de IA através de prompts personalizados.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
-
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
