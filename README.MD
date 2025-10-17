@@ -24,7 +24,7 @@
 <div align="center">
   <p><strong>✨ Sobre este podcast:</strong></p>
   <p>Uma encantadora história sobre o bruxo Ventania e sua descoberta mágica na Floresta Proibida. 
-  Perfeito para crianças e adultos aprendendo inglês, esta narrativa ensina valiosas lições sobre 
+  Perfeito para crianças e adultos que estão aprendendo inglês, esta narrativa ensina valiosas lições sobre 
   generosidade e o verdadeiro significado da magia. O que acontece quando um presente precioso 
   é compartilhado? E qual será o destino final do misterioso cogumelo luminoso?</p>
   
@@ -61,3 +61,7 @@ Bootcamp Sandanter Universia – Fundamentos de IA Generativa. Aula prática com
 - Audio gerado pela elevenLabs
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
+
+<p align="center">
+<strong>Feito por: <a href="https://www.linkedin.com/in/arthur-vesaro-798318239/" target="_blank">Arthur</a></strong>
+</p>
