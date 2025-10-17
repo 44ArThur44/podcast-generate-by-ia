@@ -12,9 +12,13 @@
 <p align="center">
 <a href="./output/The Wizard's Discovery.mp3" download>
     <button style="background-color: #28DA77; color: white; padding: 12px 24px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
-        📥 Baixar Podcast
+        🎧 Escutar Podcast (Baixar)
     </button>
 </a>
+</p>
+
+<p align="center">
+<small>Clique no botão acima para baixar e escutar o podcast</small>
 </p>
 
 <p align="center">
@@ -29,16 +33,6 @@
     alt="🔴 LIVE CODE">
 </a>
 </p>
-
-<p align="center">
-    Ouça o podcast diretamente:
-</p>
-
-<div align="center">
-    <audio src="./output/The Wizard's Discovery.mp3" controls style="width: 300px;">
-        Seu navegador não suporta o elemento de áudio.
-    </audio>
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 
