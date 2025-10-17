@@ -21,6 +21,16 @@
 <small>Clique no botão acima para baixar e escutar o podcast</small>
 </p>
 
+<div align="center">
+  <p><strong>✨ Sobre este podcast:</strong></p>
+  <p>Uma encantadora história sobre o bruxo Ventania e sua descoberta mágica na Floresta Proibida. 
+  Perfeito para crianças e adultos aprendendo inglês, esta narrativa ensina valiosas lições sobre 
+  generosidade e o verdadeiro significado da magia. O que acontece quando um presente precioso 
+  é compartilhado? E qual será o destino final do misterioso cogumelo luminoso?</p>
+  
+  <p><em>"O maior feitiço não está no que guardamos, mas no que compartilhamos..."</em></p>
+</div>
+
 <p align="center">
 <a href="https://dio.me/">
     <img 
@@ -36,7 +46,7 @@
 
 # Projeto Podcast Gerado por I.A.s
 
-Bootcamp Santander – Fundamentos de IA Generativa com objetivo de gerar um Podcast utilizando ferramentas de IA através de prompts personalizados.
+Bootcamp Universia – Fundamentos de IA Generativa com objetivo de gerar um Podcast utilizando ferramentas de IA através de prompts personalizados.
 
 ## 💻 Tecnologias utilizadas no projeto
 
