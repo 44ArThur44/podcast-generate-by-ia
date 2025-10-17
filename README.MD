@@ -28,7 +28,7 @@
   generosidade e o verdadeiro significado da magia. O que acontece quando um presente precioso 
   é compartilhado? E qual será o destino final do misterioso cogumelo luminoso?</p>
   
-  <p><em>"O maior feitiço não está no que guardamos, mas no que compartilhamos..."</em></p>
+  <p><em>"The greatest spell is not what we keep, but what we share..."</em></p>
 </div>
 
 <p align="center">
